@@ -18,7 +18,7 @@
       "state": "Kerala",
       "country": "India"
     },
-     {
+    {
       "name": "Sabreen Rafeek",
       "phone": "9207788786",
       "blood_group": "o+",
@@ -31,28 +31,28 @@
       "name": " Roushath Beevi K S",
       "Phone": "8137863411",
       "blood_group": "O+",
-      "address":" Kattiparambil House, vattekunnam, Edappally North po",
+      "address": " Kattiparambil House, vattekunnam, Edappally North po",
       "district": " Ernakulam",
       "State": " Kerala",
-      "Country":" India"
-      },
+      "Country": " India"
+    },
     {
       "name": "Riswana E A",
       "phone": "9207625363",
       "blood_group": "A+",
-      "address": "ELAVAKKAD HOUSE,Thrikkakara P O",
-    }.
+      "address": "ELAVAKKAD HOUSE,Thrikkakara P O"
+    },
     {
       "name": "Farzana Khareem",
       "phone": "8078127490",
       "blood_group": "O+",
-      "address": "Mulallapilly(H) Kunnumpuram Thrikkakara P.O ",
+      "address": "Mulallapilly(H) Kunnumpuram Thrikkakara P.O "
     },
     {
       "name": "Salmath K A",
       "phone": "8089775575",
       "blood_group": "A+",
-      "address": "kureekod parambil house olikkuzhi vazhakkala kakkanad p.o",
+      "address": "kureekod parambil house olikkuzhi vazhakkala kakkanad p.o"
     }
   ]
 }
